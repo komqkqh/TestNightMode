@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TestNightMode</string>
+
+    <string name="string_main">Light Mode</string>
+</resources>
